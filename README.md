@@ -17,8 +17,7 @@ This platform aims to enhance community engagement by simplifying the volunteer 
 - Database: MongoDB
 - Authentication: JWT, Passport.js
 - Deployment: Heroku or AWS
-
-## In
+  
 ### Prerequisites:
 - Node.js (v14 or above)
 - MongoDB (Local or Cloud Database)
