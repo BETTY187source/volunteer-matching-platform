@@ -18,7 +18,7 @@ This platform aims to enhance community engagement by simplifying the volunteer 
 - Authentication: JWT, Passport.js
 - Deployment: Heroku or AWS
 
-## Installation
+## In
 
 ### Prerequisites:
 - Node.js (v14 or above)
