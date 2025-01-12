@@ -1,4 +1,4 @@
-   # Volunteer Matching Platform
+    # Volunteer Matching Platform
 
 ## Description
 The **Volunteer Matching Platform** is a web-based application that helps match volunteers with local Non-Governmental Organizations (NGOs) and community projects. Volunteers can create profiles, specify their interests, and find causes that align with their skills and availability. NGOs can list opportunities, request volunteers, and manage their profiles.
