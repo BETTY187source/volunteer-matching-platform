@@ -9,7 +9,7 @@ This platform aims to enhance community engagement by simplifying the volunteer 
 - **Volunteer Registration:** Sign up as a volunteer, create a profile with skills and interests.
 - **NGO Registration:** NGOs can create profiles, post volunteer opportunities, and receive applications.
 - **Volunteer Search:** Volunteers can browse available opportunities based on skills, location, and availability.
-- **Admin Dashboard:** Admin can manage users (volunteers and NGOs), approve listings, and monitor activity.
+- **Admin Dashboard:** Admin can manage users (volunteers and NGOs), approve listing, and monitor activity.
   
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript (React.js)
